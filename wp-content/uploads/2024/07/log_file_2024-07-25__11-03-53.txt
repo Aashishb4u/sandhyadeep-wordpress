@@ -1,0 +1,51 @@
+
+---Downloaded files---
+The import files for: Import Lanotte were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://sandhyadeep.in
+Data file = /home/sandhyadeep-wordpress-latest/wordpress/wp-content/themes/lanotte/sample-data/contents-demo.xml
+Widget file = /home/sandhyadeep-wordpress-latest/wordpress/wp-content/themes/lanotte/sample-data/widget-settings.json
+Customizer file = /home/sandhyadeep-wordpress-latest/wordpress/wp-content/themes/lanotte/sample-data/customizer-data.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Footer Section 1 : 
+
+Text - No Title - Imported
+Text - No Title - Imported
+Text - No Title - Imported
+
+Footer Section 2 : 
+
+Text - No Title - Imported
+Text - No Title - Imported
+Text - No Title - Imported
+
+Footer Section 3 : 
+
+Text - No Title - Imported
+Text - No Title - Imported
+Text - No Title - Imported
+Text - No Title - Imported
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not in a correct format. Please make sure to use the correct customizer import file.
+
+---ocdi/after_import---
+
