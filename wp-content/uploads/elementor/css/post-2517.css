@@ -1,0 +1,18 @@
+.elementor-2517 .elementor-element.elementor-element-e4ef76c{margin-top:0px;margin-bottom:0px;}.elementor-2517 .elementor-element.elementor-element-89b051c{--display:flex;--background-transition:0.3s;--padding-block-start:100px;--padding-block-end:0px;--padding-inline-start:0px;--padding-inline-end:0px;}.elementor-2517 .elementor-element.elementor-element-3573a4b{--e-transform-origin-x:center;--e-transform-origin-y:center;}.elementor-2517 .elementor-element.elementor-element-938035b{--display:flex;--background-transition:0.3s;--padding-block-start:100px;--padding-block-end:0px;--padding-inline-start:0px;--padding-inline-end:0px;}.elementor-2517 .elementor-element.elementor-element-08072f2{--e-transform-origin-x:center;--e-transform-origin-y:center;}.elementor-2517 .elementor-element.elementor-element-5f95a3d{--display:flex;--background-transition:0.3s;--padding-block-start:100px;--padding-block-end:100px;--padding-inline-start:0px;--padding-inline-end:0px;}.elementor-2517 .elementor-element.elementor-element-d5e9549{--e-transform-origin-x:center;--e-transform-origin-y:center;}.elementor-2517 .elementor-element.elementor-element-3a56d03{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--background-transition:0.3s;--padding-block-start:0px;--padding-block-end:0px;--padding-inline-start:0px;--padding-inline-end:0px;}@media(max-width:767px){.elementor-2517 .elementor-element.elementor-element-d5e9549.elementor-element{--align-self:flex-start;--order:-99999 /* order start hack */;}}/* Start custom CSS for bdevs-pricing2-section, class: .elementor-element-3573a4b */@media (min-width: 1024px) {
+  #pricing-1:after {
+    left: 32%;
+}
+}/* End custom CSS */
+/* Start custom CSS for bdevs-pricing2-section, class: .elementor-element-08072f2 */.elementor-2517 .elementor-element.elementor-element-08072f2 .row.d-flex.align-items-center 
+
+ {
+
+flex-direction: row-reverse;
+
+     
+
+ }
+ @media (min-width: 1024px) {
+.elementor-2517 .elementor-element.elementor-element-08072f2 .white-smoke--shape:after {
+    margin-left: -360px;
+}}/* End custom CSS */

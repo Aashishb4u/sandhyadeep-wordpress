@@ -1,0 +1,40 @@
+.elementor-2496 .elementor-element.elementor-element-e4ef76c{margin-top:0px;margin-bottom:0px;}.elementor-2496 .elementor-element.elementor-element-ef04ded{--display:flex;--background-transition:0.3s;--padding-block-start:100px;--padding-block-end:0px;--padding-inline-start:0px;--padding-inline-end:0px;}.elementor-2496 .elementor-element.elementor-element-7e30b20{--e-transform-origin-x:center;--e-transform-origin-y:center;}.elementor-2496 .elementor-element.elementor-element-3324616{--display:flex;--background-transition:0.3s;--padding-block-start:100px;--padding-block-end:0px;--padding-inline-start:0px;--padding-inline-end:0px;}.elementor-2496 .elementor-element.elementor-element-2e0fa52{--e-transform-origin-x:center;--e-transform-origin-y:center;}.elementor-2496 .elementor-element.elementor-element-a829b15{--display:flex;--background-transition:0.3s;--padding-block-start:100px;--padding-block-end:0px;--padding-inline-start:0px;--padding-inline-end:0px;}.elementor-2496 .elementor-element.elementor-element-479b15d{--e-transform-origin-x:center;--e-transform-origin-y:center;}.elementor-2496 .elementor-element.elementor-element-90120b3{--display:flex;--background-transition:0.3s;--padding-block-start:100px;--padding-block-end:0px;--padding-inline-start:0px;--padding-inline-end:0px;}.elementor-2496 .elementor-element.elementor-element-7f76046{--e-transform-origin-x:center;--e-transform-origin-y:center;}.elementor-2496 .elementor-element.elementor-element-f124d72{--display:flex;--background-transition:0.3s;--padding-block-start:100px;--padding-block-end:100px;--padding-inline-start:0px;--padding-inline-end:0px;}.elementor-2496 .elementor-element.elementor-element-45dbe54{--e-transform-origin-x:center;--e-transform-origin-y:center;}.elementor-2496 .elementor-element.elementor-element-3a56d03{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--background-transition:0.3s;--padding-block-start:0px;--padding-block-end:0px;--padding-inline-start:0px;--padding-inline-end:0px;}/* Start custom CSS for bdevs-pricing2-section, class: .elementor-element-7e30b20 */@media (min-width: 1024px) {
+ section #pricing-1.white-smoke--shape pricing-section division::after
+    
+ {
+flex-direction: row-reverse;
+
+
+     
+
+ }
+ #pricing-1:after {
+    left: 32%;
+}
+}/* End custom CSS */
+/* Start custom CSS for bdevs-pricing2-section, class: .elementor-element-2e0fa52 */.elementor-2496 .elementor-element.elementor-element-2e0fa52 .row.d-flex.align-items-center 
+
+ {
+
+flex-direction: row-reverse;
+
+     
+
+ }
+ @media (min-width: 1024px) {
+.elementor-2496 .elementor-element.elementor-element-2e0fa52 .white-smoke--shape:after {
+    margin-left: -360px;
+}}/* End custom CSS */
+/* Start custom CSS for bdevs-pricing2-section, class: .elementor-element-7f76046 */.elementor-2496 .elementor-element.elementor-element-7f76046 .row.d-flex.align-items-center 
+
+ {
+
+flex-direction: row-reverse;
+
+     
+
+ }
+ @media (min-width: 1024px) {
+.elementor-2496 .elementor-element.elementor-element-7f76046 .white-smoke--shape:after {
+    margin-left: -360px;
+}}/* End custom CSS */
